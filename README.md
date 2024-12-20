@@ -3,7 +3,7 @@ Delong Yang, Qiongjie Cui, Tong Wang, Qiang Xiao, Xueshan Xia, Yuhui Liao
 
 ## Installation
 1. Clone this repository   
-`$ git clone xx.git`
+`$ git clone HyMaNet.git`
 
 2. Initialize conda environment    
 `$ conda env create -f requirement.yaml`
